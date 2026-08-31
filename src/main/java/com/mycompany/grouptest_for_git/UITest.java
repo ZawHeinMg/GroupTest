@@ -38,6 +38,7 @@ public class UITest extends javax.swing.JFrame {
 
         jToggleButton1.setText("jToggleButton1");
 
+        jLabel1.setForeground(new java.awt.Color(51, 255, 102));
         jLabel1.setText("bhonemyintlwin");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
